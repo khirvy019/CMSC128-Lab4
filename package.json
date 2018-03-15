@@ -1,5 +1,11 @@
 {
   "name": "FreedomBoard",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": "1.0.0",
+  "description": "Freedom board app",
+  "main": "index.js",
+  "repository": "github.com/khirvy019/CMSC128-Lab4",
+  "author": "khirvy019",
+  "license": "MIT"
 }
